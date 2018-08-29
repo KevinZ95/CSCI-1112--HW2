@@ -51,5 +51,5 @@ public class Homework implements JMC{
 	sort.toMusic(sort.getPitch(3), sort.getTime());
 // 	all sorting methods work well
 	}
-	
+// aaaaaaa	
 }
